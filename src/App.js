@@ -49,7 +49,7 @@ function App() {
     return (
         <div className="App">
             <header>
-                <h1>Todos</h1>
+                <h1>Raghu ToDo Application</h1>
             </header>
             <Form
                 inputText={inputText}
